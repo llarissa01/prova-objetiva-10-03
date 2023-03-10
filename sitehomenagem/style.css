@@ -1,0 +1,35 @@
+.container{
+    background-color: rgb(196, 52, 188);
+    width: 900px;
+}
+
+.nav{
+    background-color: rgb(212, 21, 126);
+    color: #fff;
+    padding: 1rem;
+}
+
+.nav-link{
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+article{
+    color: #fff;
+    padding: 0.8rem;
+}
+
+footer{
+    color: #fff;
+    text-align: bolder;
+}
+
+.pessoa{
+    text-align: center;
+}
+
+.container1{
+    text-align: center;
+}
+
